@@ -36,3 +36,8 @@ The program will add your content to the end of the file
 
 Exit:
 Select option 4 to exit the program
+
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/d20c9432-4c2c-4976-b312-40556bc2fec0)
